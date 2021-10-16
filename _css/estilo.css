@@ -34,8 +34,8 @@ div#interface{
 /* Formatação do HEADER */
 header#cabecalho img#icone{
     position: absolute;
-    left: 780px;
-    top: 70px;
+    right: 220px;
+    top: 40px;
 }
 
 header#cabecalho{
@@ -72,7 +72,7 @@ nav#menu ul{
     text-transform: uppercase;
     position: absolute;
     top: -10px;
-    left: 300px;
+    right: 220px;
 }
 
 nav#menu li {
